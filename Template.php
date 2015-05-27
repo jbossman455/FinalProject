@@ -13,8 +13,7 @@
          
          <nav id="navigation">
              <ul id="nav">
-                 <li><a href="index.php.">Home</a></li>
-                 <li><a href="Images/">Images</a></li>
+                 <li><a href="Images.html">Images</a></li>
                  <li><a href="index.html.">About Me</a></li>
                  <li><a href="">Informing your life with knowledge</a></li>
                  

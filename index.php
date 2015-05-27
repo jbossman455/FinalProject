@@ -4,6 +4,7 @@ $content = "Welcome to the Home page of my php website!";
 
 include 'Template.php';
 
+
      
 ?>
    <meta charset="UTF-8">
