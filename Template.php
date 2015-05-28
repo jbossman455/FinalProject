@@ -15,7 +15,7 @@
              <ul id="nav">
                  <li><a href="Images.html">Images</a></li>
                  <li><a href="index.html.">About Me</a></li>
-                 <li><a href="">Informing your life with knowledge</a></li>
+         
                  
                  
              </ul>
